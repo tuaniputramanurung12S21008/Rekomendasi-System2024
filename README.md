@@ -31,8 +31,8 @@ F1-Score: Kombinasi dari precision dan recall.
 
 Hasil Evaluasi menggunakan Proposed Model Hybrid Model (Collaborative + Content - Based Filtering)![Evaluatin Proposed model](https://github.com/user-attachments/assets/4831c2ab-4778-4dc4-aa16-c7f51741e7a9)
 
-Top 5 Tempat Wisata yang dapat Dikunjungi
+Top 5 Tempat Wisata yang dapat Dikunjungi ![top5recomendation](https://github.com/user-attachments/assets/37a1b488-3d26-4754-b27e-41fb7591f674)
 
-![Evaluatin Proposed model](https://github.com/user-attachments/assets/81f2b34f-d06d-4fe6-810b-850267b20737)
+
 
 
