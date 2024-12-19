@@ -20,6 +20,7 @@ KNN (K-Nearest Neighbors)
 KNN adalah algoritma berbasis konten yang digunakan untuk mencari tempat wisata yang mirip dengan tempat wisata yang dipilih oleh pengguna berdasarkan fitur-fitur yang ada. Dalam konteks ini, KNN digunakan untuk mencari tempat wisata yang memiliki kesamaan deskripsi atau atribut dengan tempat wisata yang sudah dipilih atau disukai oleh pengguna.
 
 
+
 Evaluasi dan Hasil
 Evaluasi dilakukan menggunakan beberapa metrik, antara lain:
 
@@ -28,10 +29,12 @@ Precision@K dan Recall@K: Untuk mengukur relevansi rekomendasi.
 F1-Score: Kombinasi dari precision dan recall.
 
 
+Hasil perbandingan Evaluasi ketiga model berdasarkan RMSE dan MAE ![RMSE AND MAE](https://github.com/user-attachments/assets/d03d6981-b582-448e-81d8-f6dc81e542fa)
 
-Hasil Evaluasi menggunakan Proposed Model Hybrid Model (Collaborative + Content - Based Filtering)![Evaluatin Proposed model](https://github.com/user-attachments/assets/4831c2ab-4778-4dc4-aa16-c7f51741e7a9)
 
-Top 5 Tempat Wisata yang dapat Dikunjungi ![top5recomendation](https://github.com/user-attachments/assets/37a1b488-3d26-4754-b27e-41fb7591f674)
+Hasil Perbandingan Precision ,Recall, Map dari ketiga model yang digunakan 
+![precision,recal,map](https://github.com/user-attachments/assets/fcf5a8c4-ff5b-4270-af1d-a6bfcf95b816)
+
 
 
 
