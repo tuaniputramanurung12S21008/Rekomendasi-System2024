@@ -35,6 +35,10 @@ Hasil perbandingan Evaluasi ketiga model berdasarkan RMSE dan MAE ![RMSE AND MAE
 Hasil Perbandingan Precision ,Recall, Map dari ketiga model yang digunakan 
 ![precision,recal,map](https://github.com/user-attachments/assets/fcf5a8c4-ff5b-4270-af1d-a6bfcf95b816)
 
+Top 5 Recomendation Destinations ![top 5 recomendation by user](https://github.com/user-attachments/assets/267dc82b-b285-472e-9907-a64d0424f203)
+
+
+
 
 
 
